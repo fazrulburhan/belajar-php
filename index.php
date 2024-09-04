@@ -1,2 +1,3 @@
 <?php 
-echo "belajar phpndan git";
+echo "belajar php dan git";
+echo "perubahan pertama";
